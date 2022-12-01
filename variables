@@ -1,0 +1,12 @@
+<?php
+echo "hola mundo"
+?> 
+
+<?php
+
+$numero1 = 5
+$numero2 = 2
+
+$resultado = ($numero1 + $numero2)
+
+<?php
